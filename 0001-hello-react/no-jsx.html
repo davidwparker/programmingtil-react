@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Hello React</title>
+  <script src="https://unpkg.com/react@15.3.2/dist/react.min.js"></script>
+  <script src="https://unpkg.com/react-dom@15.3.2/dist/react-dom.min.js"></script>
+</head>
+<body>
+  <div id="root" />
+  <script type="text/javascript">
+    var HelloReact = React.createClass({
+      displayName: 'HelloReact',
+      render: function() {
+        return React.createElement("div", null, "Hello ", this.props.name);
+      }
+    });
+    ReactDOM.render(
+      React.createElement(HelloReact, {name: "React"}),
+      document.getElementById('root')
+    );
+  </script>
+</body>
+</htmL>
