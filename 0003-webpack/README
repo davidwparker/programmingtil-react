@@ -1,0 +1,12 @@
+STARTING OFF:
+Make sure you have npm installed.
+Run:
+```
+npm install
+npm start
+```
+
+View at: http://localhost:8080/
+
+RESOURCES:
+http://webpack.github.io/docs/tutorials/getting-started/
