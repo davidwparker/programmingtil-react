@@ -5,6 +5,10 @@
   "author": "David Parker",
   "private": true,
   "main": "index.js",
+  "keywords": [
+    "react",
+    "npm"
+  ],
   "scripts": {
     "build": "browserify ./index.js -t babelify -o bundle.js",
     "start": "watchify ./index.js -v -t babelify -o bundle.js | http-server"
