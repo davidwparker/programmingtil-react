@@ -4,6 +4,6 @@ var HelloReact = React.createClass({
   }
 });
 ReactDOM.render(
-  <HelloMessage name="React" />,
+  <HelloReact name="React" />,
   document.getElementById('root')
 );
