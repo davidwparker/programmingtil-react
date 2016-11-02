@@ -6,12 +6,8 @@ npm install
 npm start
 ```
 
-Run:
-```
-http-server
-```
-
 View at: http://localhost:8080/
 
 RESOURCES:
+https://github.com/davidwparker/programmingtil-react/tree/master/0002-npm
 https://facebook.github.io/react/docs/package-management.html
