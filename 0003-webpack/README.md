@@ -8,5 +8,11 @@ npm start
 
 View at: http://localhost:8080/
 
+CONCEPTS:
+webpack
+webpack.config
+loaders
+
 RESOURCES:
+https://github.com/davidwparker/programmingtil-react/tree/master/0003-webpack
 http://webpack.github.io/docs/tutorials/getting-started/
