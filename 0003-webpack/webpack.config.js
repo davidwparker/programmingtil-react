@@ -20,13 +20,4 @@ module.exports = {
       },
     ]
   },
-  resolve: {
-    root: [
-      path.join(__dirname, 'node_modules')
-    ],
-    extensions: ['', '.js', '.jsx'],
-    moduleDirectories: [
-      'node_modules'
-    ]
-  },
 };

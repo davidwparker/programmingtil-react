@@ -9,6 +9,6 @@ var HelloMessage = React.createClass({
   }
 });
 ReactDOM.render(
-  <HelloMessage name="React is cool." />,
+  <HelloMessage name="React is awesome." />,
   document.getElementById('root')
 );
