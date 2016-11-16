@@ -9,4 +9,5 @@ npm start
 View at: http://localhost:8080/
 
 RESOURCES:
+https://github.com/davidwparker/programmingtil-react/tree/master/0007-javascript-expressions
 https://facebook.github.io/react/docs/jsx-in-depth.html#javascript-expressions
