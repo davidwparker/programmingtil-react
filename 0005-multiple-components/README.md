@@ -1,4 +1,5 @@
-STARTING OFF:
+## STARTING OFF:
+
 Make sure you have npm installed.
 Run:
 ```
@@ -8,9 +9,11 @@ npm start
 
 View at: http://localhost:8080/
 
-CONCEPTS:
+## CONCEPTS:
+
 multiple components
 
-RESOURCES:
-https://github.com/davidwparker/programmingtil-react/tree/master/0005-multiple-components
-https://facebook.github.io/react/docs/tutorial.html#composing-components
+## RESOURCES:
+
+* https://github.com/davidwparker/programmingtil-react/tree/master/0005-multiple-components
+* https://facebook.github.io/react/docs/tutorial.html#composing-components
