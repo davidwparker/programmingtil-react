@@ -4,6 +4,7 @@ Make sure you have npm installed.
 Run:
 ```
 cd app
+npm install
 npm start
 ```
 
