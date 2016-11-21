@@ -12,8 +12,8 @@ View at: http://localhost:3000/
 
 ## CONCEPTS:
 
-Rendering Child Elements
+Passing Props To Children and Spread Attributes
 
 ## RESOURCES:
 
-* https://github.com/davidwparker/programmingtil-react/tree/master/0012-render-children
+* https://github.com/davidwparker/programmingtil-react/tree/master/0013-passing-props
