@@ -1,5 +1,5 @@
 {
-  "name": "0010-lifecycle-methods",
+  "name": "0014-shouldComponentUpdate",
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
