@@ -1,0 +1,19 @@
+{
+  "name": "0021-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^0.14.55",
+    "@types/react-dom": "^0.14.19",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^3.0.0-beta.17",
+    "source-map-loader": "^0.1.5",
+    "typescript": "^2.1.4"
+  }
+}
